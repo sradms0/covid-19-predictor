@@ -1,1 +1,4 @@
-/data
+data
+data_to_clean
+.ipynb_checkpoints
+__pycache__
