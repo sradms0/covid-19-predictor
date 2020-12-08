@@ -24,7 +24,7 @@ DATA_CLEANED_FNS = {
     'cases': 'cleaned_covid_cases_by_county.csv',
     'dems': 'clean_dems_by_county.csv',
     'party': '2016_cleaned_politics_by_county.csv',
-    'final': 'clean_data.csv'
+    'final': 'clean_data_final.csv'
 }
 DATA_CLEANED_SRCS = {
     'cases': f'{DATA_ROOTS["cases"]}/{DATA_CLEANED_FNS["cases"]}',
